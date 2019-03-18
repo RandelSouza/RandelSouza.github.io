@@ -42,13 +42,6 @@ Site destinado ao repositorio do github.
 <details open>
 <summary>Want to ruin the surprise?</summary>
 <br>
-Well, you asked for it!
+  Well, you asked for it!
 <details>
-  
-<details>
-<summary>Heading</summary>
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
-</details>
+
